@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "golf": {
+      "type": "http",
+      "url": "https://mcp.golfintelligence.com/mcp",
+      "headers": {
+        "X-GI-Client-ID": "${GI_CLIENT_ID}",
+        "X-GI-Active-Token": "${GI_ACTIVE_TOKEN}"
+      }
+    }
+  }
+}
