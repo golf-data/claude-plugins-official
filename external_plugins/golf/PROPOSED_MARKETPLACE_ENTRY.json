@@ -1,0 +1,17 @@
+{
+  "name": "golf",
+  "displayName": "Golf Intelligence, by Stracka",
+  "description": "Proprietary StrackaGolf course data, updated daily. Search is free. Scorecards, GPS, and 3D greens via API credentials from the Golf Intelligence console.",
+  "author": {
+    "name": "Golf Intelligence, by Stracka",
+    "email": "support@golfintelligence.com"
+  },
+  "category": "location",
+  "source": {
+    "source": "url",
+    "url": "https://github.com/golf-data/golf.git",
+    "sha": "d64742f2bdf9099f487f77aebb92f75d2d3d6c67"
+  },
+  "homepage": "https://github.com/golf-data/golf",
+  "tags": ["community-managed"]
+}
